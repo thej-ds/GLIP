@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cu102
+torch==1.9.0+cu102
+torchvision==0.10.0+cu102
+einops
+shapely
+timm
+yacs
+tensorboardX
+ftfy
+prettytable
+pymongo
+click
+opencv-python
+inflect
+nltk
+scipy
+scikit-learn
+pycocotools
+transformers
+pycocotools
